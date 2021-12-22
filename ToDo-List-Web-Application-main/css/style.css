@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+
+#formSection{
+    background-color: rgba(255, 255, 255, 0.479);
+    margin-top: 5%;
+    margin-right: 20%;
+    margin-left: 20%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    font-weight: bold;
+}
+
+#header{
+    padding: 1rem;
+}
+
+.hidden{
+    display: none;
+}
+
+.textbox{
+    width: 50%;
+    border-color: black;
+}
+
+button{
+    width: 50%;
+    background-color: rgba(65, 65, 179, 0.795);
+    font-weight: bolder;
+}
+
+#lists{
+    background-color:red ;
+}
